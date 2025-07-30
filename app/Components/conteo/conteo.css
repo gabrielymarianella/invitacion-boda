@@ -1,0 +1,30 @@
+.zona_conteo {
+  position: relative;
+}
+
+.text {
+  color: #425649;
+  position: absolute;
+  margin: auto;
+  gap: 10px;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Gilda Display", serif;
+  font-weight: 600;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.fecha {
+  display: flex;
+  gap: 20px;
+}
+
+.label-text {
+  display: flex;
+  gap: 40px;
+}

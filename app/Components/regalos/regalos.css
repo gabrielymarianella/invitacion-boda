@@ -1,0 +1,38 @@
+.container-info{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title_primary {
+  font-weight: 500 !important;
+  margin-bottom: 40px;
+}
+
+.imagen {
+  width: 200px;
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 50px;
+  text-align: center;
+}
+
+.cuenta {
+  display: flex;
+  flex-direction: column;
+  padding: 30px 0 30px 0;
+  font-family: "Gilda Display", serif;
+  font-weight: 400;
+  font-style: normal;
+  gap: 5px;
+}
+.prop{
+  font-family: "Edu NSW ACT Hand Pre", cursive;
+  font-weight: 400;
+}

@@ -1,0 +1,41 @@
+.container-minute {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.img {
+  width: 50%;
+  height: 460px;
+  overflow: hidden;
+}
+
+.img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.minuto {
+  width: 50%;
+  height: 400px;
+  overflow: hidden;
+}
+
+.minuto img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.text-content {
+  padding: 20px 30px 30px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  font-family: "Gilda Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}

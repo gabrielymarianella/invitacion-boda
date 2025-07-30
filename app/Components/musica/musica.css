@@ -1,0 +1,59 @@
+.container_incon_play {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.container_incon_play img {
+  max-width: 70%;
+  object-fit: cover;
+}
+
+.text-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* position: relative; */
+}
+
+.text-container img {
+  display: flex;
+  width: 70%;
+}
+
+/* .text-container .text {
+  position: absolute;
+  padding-top: 40px;
+  align-items: end;
+  margin-top: 100px;
+  width: 58%;
+  top: 195px;
+  left: 145px;
+  font-family: "Gilda Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.btn-como-llegar {
+  top: 445px;
+  left: 145px;
+  position: absolute;
+  background-color: #aba578;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+}
+
+.btn-como-llegar:hover {
+  background-color: #726e51;
+}
+
+*/ 
+.musica p {
+  margin: 15px 10px 10px;
+  text-align: center;
+  font-size: 12px;
+}
